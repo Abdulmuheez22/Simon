@@ -242,7 +242,7 @@ footer{
     justify-content: flex-end;
     padding: 0 30px;
     background-color: transparent;
-    margin: 50px 0;
+    margin: 100px 0;
     position: absolute;
 }
 h3{
@@ -272,4 +272,5 @@ h3{
     h1{
         font-size: 2rem;
     }
+
 }
